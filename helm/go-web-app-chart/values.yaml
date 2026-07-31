@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: ippilinaveen741/go-web-app
   pullPolicy: IfNotPresent
-  tag: "30576672309"
+  tag: "30611299238"
 
 ingress:
   enabled: false
